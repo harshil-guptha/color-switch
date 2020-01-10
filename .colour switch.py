@@ -8,7 +8,7 @@ pygame.mixer.music.play()
 
 SCREEN_WIDTH, SCREEN_HEIGHT = 500,700
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-pygame.display.set_caption("Color Switch")
+pygame.display.set_caption("THE ALPHA STREAX COLOR SWITCH")
 path = "H:\\Documents\\Programming\\Python\\test2\\"
 
 PURPLE = (140, 19, 251)
