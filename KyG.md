@@ -1,7 +1,7 @@
 # Project Title : color switch
 ### Batch NO : 02
 ### Mentor Name : Ms. V KAMALA
-### Github Link : https://github.com/harshil-guptha/THE-ALPHA-STREAX
+### Github Link : https://github.com/harshil-guptha/color-switch
 ### Team Details :
 | S.no  | Name  | Roll Number  | Email Id  |
 |-------|-------|--------------|-----------|
