@@ -1,7 +1,11 @@
 import pygame, pygame.gfxdraw, math, random
+from playsound import playsound
 
 pygame.init()
 pygame.font.init()
+pygame.mixer.music.load('AS.mp3')
+pygame.mixer.music.play()
+
 SCREEN_WIDTH, SCREEN_HEIGHT = 500,700
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 pygame.display.set_caption("Color Switch")
